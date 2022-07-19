@@ -368,3 +368,94 @@ span {
   display: flex;
   justify-content: center;
 }
+
+/* comment */
+
+.comment {
+  background-color: #e5e5e5;
+}
+.comment-text {
+  font-family: Open Sans;
+  font-size: 16px;
+  font-style: italic;
+  font-weight: 400;
+  text-align: center;
+  padding-top: 85px;
+}
+.comment-author {
+  display: flex;
+  justify-content: center;
+}
+.comment-text2 {
+  margin-top: 17px;
+  font-family: "Open Sans";
+  font-weight: 600;
+  font-size: 20px;
+  text-align: center;
+}
+.comment-text3 {
+  margin-top: 10px;
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 20px;
+  text-align: center;
+}
+.comment-img {
+  margin-top: 30px;
+  border-radius: 50%;
+  border: 3px solid #fff;
+  box-shadow: 5px 5px 10px 0px #00000040;
+}
+.comment-ellipse {
+  display: flex;
+  justify-content: center;
+  margin-top: 27px;
+  margin-bottom: 50px;
+}
+.ellepse-img {
+  margin: 5px;
+}
+.galery-title {
+  font-family: "Tinos", serif;
+  text-align: center;
+  font-size: 54px;
+  margin-top: 100px;
+  margin-bottom: 90px;
+}
+.galery-content {
+  display: flex;
+  justify-content: center;
+}
+.galery-left {
+  margin-right: 20px;
+}
+.galery-down,
+.galery-up {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.cook {
+  margin-bottom: 100px;
+}
+.cook-title {
+  font-family: "Tinos", serif;
+  text-align: center;
+  font-size: 54px;
+  margin-top: 100px;
+  margin-bottom: 90px;
+}
+.cook-content {
+  display: flex;
+  justify-content: space-around;
+}
+.cook-img {
+  border-radius: 25px;
+  box-shadow: 5px 5px 10px 0px #00000040;
+}
+.footer {
+  background-color: black;
+  padding: 30px 0px;
+  color: #fff;
+  text-align: center;
+}
